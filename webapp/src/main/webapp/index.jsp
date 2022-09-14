@@ -19,6 +19,6 @@
   </div>
 
   <div class="container signin">
-    <p>Already have an account, Please create new with Us Deva Hurry up<a href="#">Sign in</a>.</p>
+    <p>Already have an account, Lord Ganesh, you are abundant knowledge in the world.<a href="#">Sign in</a>.</p>
   </div>
 </form>
