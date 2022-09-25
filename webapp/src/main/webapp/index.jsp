@@ -20,6 +20,6 @@
 
   <div class="container signin">
     <p>Already have an account, Lord Ganesh, you are abundant knowledge in the world.
-    Please give me a leaf of knowledge to cross the ocean with peace of mind ever,thanks Ganesha 123.Good Night<a href="#">Sign in</a>.</p>
+    Please give me a leaf of knowledge to cross the ocean with peace of mind ever,thanks Ganesha 123.Good Night, and day araises with lot of happiness.<a href="#">Sign in</a>.</p>
   </div>
 </form>
