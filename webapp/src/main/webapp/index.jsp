@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>Please fill in this form to create an account from Shiva and Maa Parvathi along with Ganesha and Kartikeya save the world to enter </p>
+    <p>Please fill in this form to create an account from Shiva and Maa Parvathi along with Ganesha and Kartikeya save the world to enter near home. </p>
     <hr>
 
     <label for="email"><b>My Great Father</b></label>
