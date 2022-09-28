@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
-<title>First JSP Page on the day of Navaratri and Deepawali..</title>
+<title>First JSP Page on the day of Navaratri and Deepawali Hardik Subeksha</title>
 </head>
 <%@ page import="java.util.Date" %>
 <body>
