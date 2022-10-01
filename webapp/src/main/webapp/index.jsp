@@ -10,6 +10,8 @@
 <body>
 <h3>Hi Gowlikar Test</h3><br>
 <strong>Current Time is</strong>: <%=new Date() %>
+    <strong>Nature Cure.</strong>: <%=new Date() %>
+
 
 </body>
 </html>
